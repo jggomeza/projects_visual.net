@@ -1,0 +1,20 @@
+c:\users\technosystems\documents\visual studio 2013\Projects\textbox\textbox\bin\Debug\textbox.exe.config
+c:\users\technosystems\documents\visual studio 2013\Projects\textbox\textbox\bin\Debug\textbox.exe
+c:\users\technosystems\documents\visual studio 2013\Projects\textbox\textbox\bin\Debug\textbox.pdb
+c:\users\technosystems\documents\visual studio 2013\Projects\textbox\textbox\bin\Debug\textbox.xml
+c:\users\technosystems\documents\visual studio 2013\Projects\textbox\textbox\obj\Debug\textbox.Form1.resources
+c:\users\technosystems\documents\visual studio 2013\Projects\textbox\textbox\obj\Debug\textbox.Resources.resources
+c:\users\technosystems\documents\visual studio 2013\Projects\textbox\textbox\obj\Debug\textbox.vbproj.GenerateResource.Cache
+c:\users\technosystems\documents\visual studio 2013\Projects\textbox\textbox\obj\Debug\textbox.exe
+c:\users\technosystems\documents\visual studio 2013\Projects\textbox\textbox\obj\Debug\textbox.xml
+c:\users\technosystems\documents\visual studio 2013\Projects\textbox\textbox\obj\Debug\textbox.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\textbox5\textbox\bin\Debug\textbox.exe.config
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\textbox5\textbox\obj\Debug\textbox.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\textbox5\textbox\obj\Debug\textbox.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\textbox5\textbox\obj\Debug\textbox.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\textbox5\textbox\bin\Debug\textbox.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\textbox5\textbox\bin\Debug\textbox.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\textbox5\textbox\bin\Debug\textbox.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\textbox5\textbox\obj\Debug\textbox.Form1.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\textbox5\textbox\obj\Debug\textbox.Resources.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\textbox5\textbox\obj\Debug\textbox.vbproj.GenerateResource.Cache

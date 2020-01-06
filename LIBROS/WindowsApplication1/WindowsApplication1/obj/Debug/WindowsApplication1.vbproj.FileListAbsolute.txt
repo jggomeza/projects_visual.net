@@ -1,0 +1,11 @@
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources

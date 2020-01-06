@@ -1,0 +1,10 @@
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\MenuStrip_15\MenuStrip_15\bin\Debug\MenuStrip_15.exe.config
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\MenuStrip_15\MenuStrip_15\bin\Debug\MenuStrip_15.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\MenuStrip_15\MenuStrip_15\bin\Debug\MenuStrip_15.pdb
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\MenuStrip_15\MenuStrip_15\bin\Debug\MenuStrip_15.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\MenuStrip_15\MenuStrip_15\obj\Debug\MenuStrip_15.Form1.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\MenuStrip_15\MenuStrip_15\obj\Debug\MenuStrip_15.Resources.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\MenuStrip_15\MenuStrip_15\obj\Debug\MenuStrip_15.vbproj.GenerateResource.Cache
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\MenuStrip_15\MenuStrip_15\obj\Debug\MenuStrip_15.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\MenuStrip_15\MenuStrip_15\obj\Debug\MenuStrip_15.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\MenuStrip_15\MenuStrip_15\obj\Debug\MenuStrip_15.pdb

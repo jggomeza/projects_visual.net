@@ -1,0 +1,10 @@
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\if-09\if-09\bin\Debug\if-09.exe.config
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\if-09\if-09\bin\Debug\if-09.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\if-09\if-09\bin\Debug\if-09.pdb
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\if-09\if-09\bin\Debug\if-09.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\if-09\if-09\obj\Debug\if_09.Form1.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\if-09\if-09\obj\Debug\if_09.Resources.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\if-09\if-09\obj\Debug\if-09.vbproj.GenerateResource.Cache
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\if-09\if-09\obj\Debug\if-09.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\if-09\if-09\obj\Debug\if-09.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\if-09\if-09\obj\Debug\if-09.pdb

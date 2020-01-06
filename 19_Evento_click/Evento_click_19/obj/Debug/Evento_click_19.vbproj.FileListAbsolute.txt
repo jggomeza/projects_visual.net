@@ -1,0 +1,10 @@
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Evento_click_19\Evento_click_19\bin\Debug\Evento_click_19.exe.config
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Evento_click_19\Evento_click_19\bin\Debug\Evento_click_19.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Evento_click_19\Evento_click_19\bin\Debug\Evento_click_19.pdb
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Evento_click_19\Evento_click_19\bin\Debug\Evento_click_19.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Evento_click_19\Evento_click_19\obj\Debug\Evento_click_19.Form1.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Evento_click_19\Evento_click_19\obj\Debug\Evento_click_19.Resources.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Evento_click_19\Evento_click_19\obj\Debug\Evento_click_19.vbproj.GenerateResource.Cache
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Evento_click_19\Evento_click_19\obj\Debug\Evento_click_19.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Evento_click_19\Evento_click_19\obj\Debug\Evento_click_19.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Evento_click_19\Evento_click_19\obj\Debug\Evento_click_19.pdb

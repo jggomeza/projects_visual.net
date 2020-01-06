@@ -1,0 +1,10 @@
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\contraseñas\contraseñas\obj\Debug\contraseñas.frmCrearContraseña.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\contraseñas\contraseñas\obj\Debug\contraseñas.Resources.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\contraseñas\contraseñas\obj\Debug\contraseñas.vbproj.GenerateResource.Cache
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\contraseñas\contraseñas\bin\Debug\contraseñas.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\contraseñas\contraseñas\bin\Debug\contraseñas.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\contraseñas\contraseñas\bin\Debug\contraseñas.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\contraseñas\contraseñas\obj\Debug\contraseñas.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\contraseñas\contraseñas\obj\Debug\contraseñas.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\contraseñas\contraseñas\obj\Debug\contraseñas.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\contraseñas\contraseñas\obj\Debug\contraseñas.frmEliminarContraseña.resources

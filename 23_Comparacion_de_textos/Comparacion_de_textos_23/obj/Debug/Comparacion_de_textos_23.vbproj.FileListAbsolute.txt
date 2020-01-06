@@ -1,0 +1,10 @@
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Comparacion_de_textos_23\Comparacion_de_textos_23\bin\Debug\Comparacion_de_textos_23.exe.config
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Comparacion_de_textos_23\Comparacion_de_textos_23\bin\Debug\Comparacion_de_textos_23.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Comparacion_de_textos_23\Comparacion_de_textos_23\bin\Debug\Comparacion_de_textos_23.pdb
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Comparacion_de_textos_23\Comparacion_de_textos_23\bin\Debug\Comparacion_de_textos_23.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Comparacion_de_textos_23\Comparacion_de_textos_23\obj\Debug\Comparacion_de_textos_23.Form1.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Comparacion_de_textos_23\Comparacion_de_textos_23\obj\Debug\Comparacion_de_textos_23.Resources.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Comparacion_de_textos_23\Comparacion_de_textos_23\obj\Debug\Comparacion_de_textos_23.vbproj.GenerateResource.Cache
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Comparacion_de_textos_23\Comparacion_de_textos_23\obj\Debug\Comparacion_de_textos_23.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Comparacion_de_textos_23\Comparacion_de_textos_23\obj\Debug\Comparacion_de_textos_23.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Comparacion_de_textos_23\Comparacion_de_textos_23\obj\Debug\Comparacion_de_textos_23.pdb

@@ -1,0 +1,9 @@
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\main\main\bin\Debug\main.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\main\main\bin\Debug\main.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\main\main\bin\Debug\main.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\main\main\obj\Debug\main.Resources.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\main\main\obj\Debug\main.vbproj.GenerateResource.Cache
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\main\main\obj\Debug\main.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\main\main\obj\Debug\main.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\main\main\obj\Debug\main.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\main\main\obj\Debug\main.vbprojResolveAssemblyReference.cache

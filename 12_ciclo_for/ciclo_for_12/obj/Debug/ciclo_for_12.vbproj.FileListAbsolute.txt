@@ -1,0 +1,10 @@
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\ciclo_for_12\ciclo_for_12\bin\Debug\ciclo_for_12.exe.config
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\ciclo_for_12\ciclo_for_12\bin\Debug\ciclo_for_12.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\ciclo_for_12\ciclo_for_12\bin\Debug\ciclo_for_12.pdb
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\ciclo_for_12\ciclo_for_12\bin\Debug\ciclo_for_12.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\ciclo_for_12\ciclo_for_12\obj\Debug\ciclo_for_12.Form1.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\ciclo_for_12\ciclo_for_12\obj\Debug\ciclo_for_12.Resources.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\ciclo_for_12\ciclo_for_12\obj\Debug\ciclo_for_12.vbproj.GenerateResource.Cache
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\ciclo_for_12\ciclo_for_12\obj\Debug\ciclo_for_12.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\ciclo_for_12\ciclo_for_12\obj\Debug\ciclo_for_12.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\ciclo_for_12\ciclo_for_12\obj\Debug\ciclo_for_12.pdb

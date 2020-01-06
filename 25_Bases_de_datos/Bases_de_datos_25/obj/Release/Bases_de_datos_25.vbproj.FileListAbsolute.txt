@@ -1,0 +1,10 @@
+C:\Users\Techno Systems C. A\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\bin\Release\Bases_de_datos_25.exe.config
+C:\Users\Techno Systems C. A\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\bin\Release\Bases_de_datos_25.exe
+C:\Users\Techno Systems C. A\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\bin\Release\Bases_de_datos_25.pdb
+C:\Users\Techno Systems C. A\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\bin\Release\Bases_de_datos_25.xml
+C:\Users\Techno Systems C. A\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\obj\Release\Bases_de_datos_25.Form1.resources
+C:\Users\Techno Systems C. A\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\obj\Release\Bases_de_datos_25.Resources.resources
+C:\Users\Techno Systems C. A\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\obj\Release\Bases_de_datos_25.vbproj.GenerateResource.Cache
+C:\Users\Techno Systems C. A\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\obj\Release\Bases_de_datos_25.exe
+C:\Users\Techno Systems C. A\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\obj\Release\Bases_de_datos_25.xml
+C:\Users\Techno Systems C. A\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\obj\Release\Bases_de_datos_25.pdb

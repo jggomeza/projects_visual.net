@@ -1,0 +1,10 @@
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\select_case_14\select_case_14\bin\Debug\select_case_14.exe.config
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\select_case_14\select_case_14\bin\Debug\select_case_14.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\select_case_14\select_case_14\bin\Debug\select_case_14.pdb
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\select_case_14\select_case_14\bin\Debug\select_case_14.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\select_case_14\select_case_14\obj\Debug\select_case_14.Form1.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\select_case_14\select_case_14\obj\Debug\select_case_14.Resources.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\select_case_14\select_case_14\obj\Debug\select_case_14.vbproj.GenerateResource.Cache
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\select_case_14\select_case_14\obj\Debug\select_case_14.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\select_case_14\select_case_14\obj\Debug\select_case_14.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\select_case_14\select_case_14\obj\Debug\select_case_14.pdb

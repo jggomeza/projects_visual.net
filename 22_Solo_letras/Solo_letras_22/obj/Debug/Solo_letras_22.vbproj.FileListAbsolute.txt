@@ -1,0 +1,14 @@
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Solo_letras_22\Solo_letras_22\bin\Debug\Solo_letras_22.exe.config
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Solo_letras_22\Solo_letras_22\bin\Debug\Solo_letras_22.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Solo_letras_22\Solo_letras_22\bin\Debug\Solo_letras_22.pdb
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Solo_letras_22\Solo_letras_22\bin\Debug\Solo_letras_22.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Solo_letras_22\Solo_letras_22\obj\Debug\Solo_letras_22.Form1.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Solo_letras_22\Solo_letras_22\obj\Debug\Solo_letras_22.Resources.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Solo_letras_22\Solo_letras_22\obj\Debug\Solo_letras_22.vbproj.GenerateResource.Cache
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Solo_letras_22\Solo_letras_22\obj\Debug\Solo_letras_22.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Solo_letras_22\Solo_letras_22\obj\Debug\Solo_letras_22.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Solo_letras_22\Solo_letras_22\obj\Debug\Solo_letras_22.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\22_Solo_letras\Solo_letras_22\bin\Debug\Solo_letras_22.exe.config
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\22_Solo_letras\Solo_letras_22\obj\Debug\Solo_letras_22.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\22_Solo_letras\Solo_letras_22\obj\Debug\Solo_letras_22.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\22_Solo_letras\Solo_letras_22\obj\Debug\Solo_letras_22.pdb

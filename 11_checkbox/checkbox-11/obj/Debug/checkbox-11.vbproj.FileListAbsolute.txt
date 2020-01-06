@@ -1,0 +1,10 @@
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\checkbox-11\checkbox-11\bin\Debug\checkbox-11.exe.config
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\checkbox-11\checkbox-11\obj\Debug\checkbox_11.Form1.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\checkbox-11\checkbox-11\obj\Debug\checkbox_11.Resources.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\checkbox-11\checkbox-11\obj\Debug\checkbox-11.vbproj.GenerateResource.Cache
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\checkbox-11\checkbox-11\bin\Debug\checkbox-11.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\checkbox-11\checkbox-11\bin\Debug\checkbox-11.pdb
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\checkbox-11\checkbox-11\bin\Debug\checkbox-11.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\checkbox-11\checkbox-11\obj\Debug\checkbox-11.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\checkbox-11\checkbox-11\obj\Debug\checkbox-11.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\checkbox-11\checkbox-11\obj\Debug\checkbox-11.pdb

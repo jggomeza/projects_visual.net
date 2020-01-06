@@ -1,0 +1,30 @@
+c:\users\technosystems\documents\visual studio 2013\Projects\OpComparativos\OpComparativos\bin\Debug\OpComparativos.exe.config
+c:\users\technosystems\documents\visual studio 2013\Projects\OpComparativos\OpComparativos\bin\Debug\OpComparativos.exe
+c:\users\technosystems\documents\visual studio 2013\Projects\OpComparativos\OpComparativos\bin\Debug\OpComparativos.pdb
+c:\users\technosystems\documents\visual studio 2013\Projects\OpComparativos\OpComparativos\bin\Debug\OpComparativos.xml
+c:\users\technosystems\documents\visual studio 2013\Projects\OpComparativos\OpComparativos\obj\Debug\OpComparativos.Form1.resources
+c:\users\technosystems\documents\visual studio 2013\Projects\OpComparativos\OpComparativos\obj\Debug\OpComparativos.Resources.resources
+c:\users\technosystems\documents\visual studio 2013\Projects\OpComparativos\OpComparativos\obj\Debug\OpComparativos.vbproj.GenerateResource.Cache
+c:\users\technosystems\documents\visual studio 2013\Projects\OpComparativos\OpComparativos\obj\Debug\OpComparativos.exe
+c:\users\technosystems\documents\visual studio 2013\Projects\OpComparativos\OpComparativos\obj\Debug\OpComparativos.xml
+c:\users\technosystems\documents\visual studio 2013\Projects\OpComparativos\OpComparativos\obj\Debug\OpComparativos.pdb
+C:\Users\TechnoSystems\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\bin\Debug\OpComparativos.exe.config
+C:\Users\TechnoSystems\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\obj\Debug\OpComparativos.exe
+C:\Users\TechnoSystems\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\obj\Debug\OpComparativos.xml
+C:\Users\TechnoSystems\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\obj\Debug\OpComparativos.pdb
+C:\Users\TechnoSystems\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\bin\Debug\OpComparativos.exe
+C:\Users\TechnoSystems\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\bin\Debug\OpComparativos.pdb
+C:\Users\TechnoSystems\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\bin\Debug\OpComparativos.xml
+C:\Users\TechnoSystems\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\obj\Debug\OpComparativos.Form1.resources
+C:\Users\TechnoSystems\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\obj\Debug\OpComparativos.Resources.resources
+C:\Users\TechnoSystems\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\obj\Debug\OpComparativos.vbproj.GenerateResource.Cache
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\bin\Debug\OpComparativos.exe.config
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\obj\Debug\OpComparativos.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\obj\Debug\OpComparativos.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\obj\Debug\OpComparativos.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\bin\Debug\OpComparativos.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\bin\Debug\OpComparativos.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\bin\Debug\OpComparativos.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\obj\Debug\OpComparativos.Form1.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\obj\Debug\OpComparativos.Resources.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\OpComparativos7\OpComparativos\obj\Debug\OpComparativos.vbproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\sqlServer_visual_2013\sqlServer_visual_2013\bin\Debug\sqlServer_visual_2013.exe.config
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\sqlServer_visual_2013\sqlServer_visual_2013\bin\Debug\sqlServer_visual_2013.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\sqlServer_visual_2013\sqlServer_visual_2013\bin\Debug\sqlServer_visual_2013.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\sqlServer_visual_2013\sqlServer_visual_2013\bin\Debug\sqlServer_visual_2013.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\sqlServer_visual_2013\sqlServer_visual_2013\obj\Debug\sqlServer_visual_2013.Form1.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\sqlServer_visual_2013\sqlServer_visual_2013\obj\Debug\sqlServer_visual_2013.Resources.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\sqlServer_visual_2013\sqlServer_visual_2013\obj\Debug\sqlServer_visual_2013.vbproj.GenerateResource.Cache
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\sqlServer_visual_2013\sqlServer_visual_2013\obj\Debug\sqlServer_visual_2013.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\sqlServer_visual_2013\sqlServer_visual_2013\obj\Debug\sqlServer_visual_2013.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\sqlServer_visual_2013\sqlServer_visual_2013\obj\Debug\sqlServer_visual_2013.pdb

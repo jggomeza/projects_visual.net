@@ -1,0 +1,20 @@
+c:\users\technosystems\documents\visual studio 2013\Projects\botones\botones\bin\Debug\botones.exe.config
+c:\users\technosystems\documents\visual studio 2013\Projects\botones\botones\bin\Debug\botones.exe
+c:\users\technosystems\documents\visual studio 2013\Projects\botones\botones\bin\Debug\botones.pdb
+c:\users\technosystems\documents\visual studio 2013\Projects\botones\botones\bin\Debug\botones.xml
+c:\users\technosystems\documents\visual studio 2013\Projects\botones\botones\obj\Debug\botones.Form1.resources
+c:\users\technosystems\documents\visual studio 2013\Projects\botones\botones\obj\Debug\botones.Resources.resources
+c:\users\technosystems\documents\visual studio 2013\Projects\botones\botones\obj\Debug\botones.vbproj.GenerateResource.Cache
+c:\users\technosystems\documents\visual studio 2013\Projects\botones\botones\obj\Debug\botones.exe
+c:\users\technosystems\documents\visual studio 2013\Projects\botones\botones\obj\Debug\botones.xml
+c:\users\technosystems\documents\visual studio 2013\Projects\botones\botones\obj\Debug\botones.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\botones6\botones\bin\Debug\botones.exe.config
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\botones6\botones\obj\Debug\botones.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\botones6\botones\obj\Debug\botones.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\botones6\botones\obj\Debug\botones.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\botones6\botones\bin\Debug\botones.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\botones6\botones\bin\Debug\botones.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\botones6\botones\bin\Debug\botones.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\botones6\botones\obj\Debug\botones.Form1.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\botones6\botones\obj\Debug\botones.Resources.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\botones6\botones\obj\Debug\botones.vbproj.GenerateResource.Cache

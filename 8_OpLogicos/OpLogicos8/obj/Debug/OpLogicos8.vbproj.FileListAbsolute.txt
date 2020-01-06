@@ -1,0 +1,10 @@
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\OpLogicos8\OpLogicos8\bin\Debug\OpLogicos8.exe.config
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\OpLogicos8\OpLogicos8\bin\Debug\OpLogicos8.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\OpLogicos8\OpLogicos8\bin\Debug\OpLogicos8.pdb
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\OpLogicos8\OpLogicos8\bin\Debug\OpLogicos8.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\OpLogicos8\OpLogicos8\obj\Debug\OpLogicos8.Form1.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\OpLogicos8\OpLogicos8\obj\Debug\OpLogicos8.Resources.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\OpLogicos8\OpLogicos8\obj\Debug\OpLogicos8.vbproj.GenerateResource.Cache
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\OpLogicos8\OpLogicos8\obj\Debug\OpLogicos8.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\OpLogicos8\OpLogicos8\obj\Debug\OpLogicos8.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\OpLogicos8\OpLogicos8\obj\Debug\OpLogicos8.pdb

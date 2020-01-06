@@ -1,0 +1,9 @@
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsFormsApplication1CS\bin\Debug\WindowsFormsApplication1CS.exe.config
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsFormsApplication1CS\bin\Debug\WindowsFormsApplication1CS.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsFormsApplication1CS\bin\Debug\WindowsFormsApplication1CS.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsFormsApplication1CS\obj\Debug\WindowsFormsApplication1CS.csprojResolveAssemblyReference.cache
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsFormsApplication1CS\obj\Debug\WindowsFormsApplication1CS.Form1.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsFormsApplication1CS\obj\Debug\WindowsFormsApplication1CS.Properties.Resources.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsFormsApplication1CS\obj\Debug\WindowsFormsApplication1CS.csproj.GenerateResource.Cache
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsFormsApplication1CS\obj\Debug\WindowsFormsApplication1CS.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\LIBROS\WindowsApplication1\WindowsFormsApplication1CS\obj\Debug\WindowsFormsApplication1CS.pdb

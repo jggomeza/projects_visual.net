@@ -1,0 +1,10 @@
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Funciones_con_parametros_18\Funciones_con_parametros_18\bin\Debug\Funciones_con_parametros_18.exe.config
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Funciones_con_parametros_18\Funciones_con_parametros_18\bin\Debug\Funciones_con_parametros_18.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Funciones_con_parametros_18\Funciones_con_parametros_18\bin\Debug\Funciones_con_parametros_18.pdb
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Funciones_con_parametros_18\Funciones_con_parametros_18\bin\Debug\Funciones_con_parametros_18.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Funciones_con_parametros_18\Funciones_con_parametros_18\obj\Debug\Funciones_con_parametros_18.Form1.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Funciones_con_parametros_18\Funciones_con_parametros_18\obj\Debug\Funciones_con_parametros_18.Resources.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Funciones_con_parametros_18\Funciones_con_parametros_18\obj\Debug\Funciones_con_parametros_18.vbproj.GenerateResource.Cache
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Funciones_con_parametros_18\Funciones_con_parametros_18\obj\Debug\Funciones_con_parametros_18.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Funciones_con_parametros_18\Funciones_con_parametros_18\obj\Debug\Funciones_con_parametros_18.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Funciones_con_parametros_18\Funciones_con_parametros_18\obj\Debug\Funciones_con_parametros_18.pdb

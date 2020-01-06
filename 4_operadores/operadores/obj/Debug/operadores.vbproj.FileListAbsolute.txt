@@ -1,0 +1,20 @@
+c:\users\technosystems\documents\visual studio 2013\Projects\operadores\operadores\bin\Debug\operadores.exe.config
+c:\users\technosystems\documents\visual studio 2013\Projects\operadores\operadores\bin\Debug\operadores.exe
+c:\users\technosystems\documents\visual studio 2013\Projects\operadores\operadores\bin\Debug\operadores.pdb
+c:\users\technosystems\documents\visual studio 2013\Projects\operadores\operadores\bin\Debug\operadores.xml
+c:\users\technosystems\documents\visual studio 2013\Projects\operadores\operadores\obj\Debug\operadores.Form1.resources
+c:\users\technosystems\documents\visual studio 2013\Projects\operadores\operadores\obj\Debug\operadores.Resources.resources
+c:\users\technosystems\documents\visual studio 2013\Projects\operadores\operadores\obj\Debug\operadores.vbproj.GenerateResource.Cache
+c:\users\technosystems\documents\visual studio 2013\Projects\operadores\operadores\obj\Debug\operadores.exe
+c:\users\technosystems\documents\visual studio 2013\Projects\operadores\operadores\obj\Debug\operadores.xml
+c:\users\technosystems\documents\visual studio 2013\Projects\operadores\operadores\obj\Debug\operadores.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\operadores4\operadores\bin\Debug\operadores.exe.config
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\operadores4\operadores\obj\Debug\operadores.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\operadores4\operadores\obj\Debug\operadores.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\operadores4\operadores\obj\Debug\operadores.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\operadores4\operadores\bin\Debug\operadores.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\operadores4\operadores\bin\Debug\operadores.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\operadores4\operadores\bin\Debug\operadores.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\operadores4\operadores\obj\Debug\operadores.Form1.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\operadores4\operadores\obj\Debug\operadores.Resources.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\operadores4\operadores\obj\Debug\operadores.vbproj.GenerateResource.Cache

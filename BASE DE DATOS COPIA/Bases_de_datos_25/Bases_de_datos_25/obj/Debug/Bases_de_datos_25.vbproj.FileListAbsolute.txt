@@ -1,0 +1,21 @@
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\bin\Debug\Bases_de_datos_25.exe.config
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\bin\Debug\Bases_de_datos_25.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\bin\Debug\Bases_de_datos_25.pdb
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\bin\Debug\Bases_de_datos_25.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\obj\Debug\Bases_de_datos_25.Form1.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\obj\Debug\Bases_de_datos_25.Resources.resources
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\obj\Debug\Bases_de_datos_25.vbproj.GenerateResource.Cache
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\obj\Debug\Bases_de_datos_25.exe
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\obj\Debug\Bases_de_datos_25.xml
+c:\users\techno systems c. a\documents\visual studio 2013\Projects\Bases_de_datos_25\Bases_de_datos_25\obj\Debug\Bases_de_datos_25.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\BASE DE DATOS COPIA\Bases_de_datos_25\Bases_de_datos_25\bin\Debug\Bases_de_datos_25.exe.config
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\BASE DE DATOS COPIA\Bases_de_datos_25\Bases_de_datos_25\obj\Debug\Bases_de_datos_25.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\BASE DE DATOS COPIA\Bases_de_datos_25\Bases_de_datos_25\obj\Debug\Bases_de_datos_25.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\BASE DE DATOS COPIA\Bases_de_datos_25\Bases_de_datos_25\obj\Debug\Bases_de_datos_25.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\BASE DE DATOS COPIA\Bases_de_datos_25\Bases_de_datos_25\bin\Debug\Bases_de_datos_25.exe
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\BASE DE DATOS COPIA\Bases_de_datos_25\Bases_de_datos_25\bin\Debug\Bases_de_datos_25.pdb
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\BASE DE DATOS COPIA\Bases_de_datos_25\Bases_de_datos_25\bin\Debug\Bases_de_datos_25.xml
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\BASE DE DATOS COPIA\Bases_de_datos_25\Bases_de_datos_25\obj\Debug\Bases_de_datos_25.Form1.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\BASE DE DATOS COPIA\Bases_de_datos_25\Bases_de_datos_25\obj\Debug\Bases_de_datos_25.Resources.resources
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\BASE DE DATOS COPIA\Bases_de_datos_25\Bases_de_datos_25\obj\Debug\Bases_de_datos_25.vbproj.GenerateResource.Cache
+C:\Users\Techno Systems C. A\Documents\Visual Studio 2013\Projects\BASE DE DATOS COPIA\Bases_de_datos_25\Bases_de_datos_25\obj\Debug\Bases_de_datos_25.vbprojResolveAssemblyReference.cache
